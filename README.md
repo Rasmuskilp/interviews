@@ -20,3 +20,8 @@ o	Answering questions
 	Off the wall
 	Why are you interested in role/career choice?
 	Technical knowledge
+o	Stories
+	Rehearse 4-5 stories
+	STAR
+o	Question Tips
+	Listen
